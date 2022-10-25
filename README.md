@@ -57,6 +57,8 @@
   There is a button on the Heroku deployment to install this locally.
   
   ## [Usage](#table-of-contents)
+
+  Heroku Deployment: https://abautista-pwa-text-editor.herokuapp.com/
   
   Screenshots:
 
